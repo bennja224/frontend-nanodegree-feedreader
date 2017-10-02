@@ -12,6 +12,7 @@ This is when developers write tests first, before they ever start developing the
 
 Whether you work in an organization that uses test-driven development or in an organization that uses tests to make sure future feature development doesn't break existing features, it's an important skill to have!
 
+I agree that this is an important skill to have and will be working with our developers to determine how often they use "test-driven development".
 
 ## What I learned?
 
