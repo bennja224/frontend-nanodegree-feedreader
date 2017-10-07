@@ -115,7 +115,7 @@ $(function() {
 		 
 		 beforeEach(function(done) {
 			loadFeed(0, function() {
-			 initialUrl = $('.entry-link').attr('href');
+			 initialUrl = $('.feed').html();
 			 loadFeed(1, done);
 			});
 		 });
